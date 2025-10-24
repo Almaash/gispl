@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 20 Feb 2025 11:23:08 at https://html.themehealer.com/crank/main-html/index3.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://html.themehealer.com/crank/main-html/index3.html -O1 "C:\Users\Hello!\Desktop\Templates\temp 11" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:24:30	Error: 	"Not Found" (404) at link https://html.themehealer.com/crank/main-html/assets/fonts/fa-brands-400.svg (from https://html.themehealer.com/crank/main-html/assets/css/font-awesome-all.css)
+11:24:30	Error: 	"Not Found" (404) at link https://html.themehealer.com/crank/main-html/assets/fonts/fa-light-300.eot (from https://html.themehealer.com/crank/main-html/assets/css/font-awesome-all.css)
+11:24:30	Error: 	"Not Found" (404) at link https://html.themehealer.com/crank/main-html/assets/fonts/fa-light-300.eot? (from https://html.themehealer.com/crank/main-html/assets/css/font-awesome-all.css)
+11:24:30	Error: 	"Not Found" (404) at link https://html.themehealer.com/crank/main-html/assets/fonts/fa-light-300.ttf (from https://html.themehealer.com/crank/main-html/assets/css/font-awesome-all.css)
+11:24:30	Error: 	"Not Found" (404) at link https://html.themehealer.com/crank/main-html/assets/fonts/fa-light-300.svg (from https://html.themehealer.com/crank/main-html/assets/css/font-awesome-all.css)
+11:24:30	Error: 	"Not Found" (404) at link https://html.themehealer.com/crank/main-html/assets/fonts/fa-regular-400.ttf (from https://html.themehealer.com/crank/main-html/assets/css/font-awesome-all.css)
+11:24:30	Error: 	"Not Found" (404) at link https://html.themehealer.com/crank/main-html/assets/fonts/fa-regular-400.svg (from https://html.themehealer.com/crank/main-html/assets/css/font-awesome-all.css)
+11:24:30	Error: 	"Not Found" (404) at link https://html.themehealer.com/crank/main-html/assets/fonts/fa-solid-900.eot (from https://html.themehealer.com/crank/main-html/assets/css/font-awesome-all.css)
+11:24:30	Error: 	"Not Found" (404) at link https://html.themehealer.com/crank/main-html/assets/fonts/fa-solid-900.eot? (from https://html.themehealer.com/crank/main-html/assets/css/font-awesome-all.css)
+11:24:30	Error: 	"Not Found" (404) at link https://html.themehealer.com/crank/main-html/assets/fonts/fa-solid-900.ttf (from https://html.themehealer.com/crank/main-html/assets/css/font-awesome-all.css)
+11:24:30	Error: 	"Not Found" (404) at link https://html.themehealer.com/crank/main-html/assets/fonts/fa-solid-900.svg (from https://html.themehealer.com/crank/main-html/assets/css/font-awesome-all.css)
+11:24:30	Error: 	"Not Found" (404) at link https://html.themehealer.com/crank/main-html/assets/css/owl.video.play.png (from https://html.themehealer.com/crank/main-html/assets/css/owl.carousel.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 22 seconds : 333 links scanned, 320 files written (20273753 bytes overall) [16095235 bytes received at 196283 bytes/sec], 5682644 bytes transferred using HTTP compression in 109 files, ratio 24%, 66.6 requests per connection
+(12 errors, 0 warnings, 0 messages)
