@@ -561,6 +561,170 @@
 }
 
 /*--------------------------------------------------------------
+# Team About
+--------------------------------------------------------------*/
+
+.team-green {
+  position: relative;
+  padding: 60px 0;
+  background-color: #f6fff6; /* light green tone */
+}
+
+.team-green__header {
+  margin-bottom: 60px;
+}
+
+.team-green__title {
+  font-size: 36px;
+  font-weight: 700;
+  color: #1a5d1a;
+  margin-bottom: 6px;
+}
+
+.team-green__subtitle {
+  color: #444;
+  max-width: 640px;
+  margin: 0 auto;
+  font-size: 15px;
+  line-height: 1.4;
+}
+
+/* Smaller card layout */
+.team-green__card {
+  background: #ffffff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 128, 0, 0.12);
+  margin-bottom: 20px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.team-green__card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 5px 12px rgba(0, 128, 0, 0.18);
+}
+
+.team-green__image img {
+  width: 100%;
+  height: auto;
+  border-bottom: 2px solid #4cae4f;
+}
+
+/* Info box smaller */
+.team-green__info {
+  background-color: #e9fbe9;
+  padding: 14px 12px;
+  color: #1c3c1c;
+}
+
+.team-green__info h3 {
+  font-size: 16px;
+  font-weight: 700;
+  color: #0f4f0f;
+  margin-bottom: 3px;
+  text-align: center;
+}
+
+.team-green__role {
+  color: #2d7a2d;
+  font-style: italic;
+  font-size: 13px;
+  margin-bottom: 6px;
+  text-align: center;
+}
+
+.team-green__info p {
+  font-size: 13px;
+  margin-bottom: 3px;
+  line-height: 1.4;
+}
+
+.team-green__info strong {
+  color: #0c410c;
+  font-weight: 600;
+}
+
+/*--------------------------------------------------------------
+# Team About
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+# Our Impact 
+--------------------------------------------------------------*/.impact-green {
+  position: relative;
+  padding: 120px 0;
+  background-color: #f5fff5;
+  overflow: hidden;
+}
+
+.impact-green__header {
+  margin-bottom: 70px;
+}
+
+.impact-green__title {
+  font-size: 48px;
+  font-weight: 800;
+  color: #1c5d1c;
+  margin-bottom: 20px;
+}
+
+.impact-green__subtitle {
+  font-size: 20px;
+  color: #333;
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.8;
+}
+
+/* List styling */
+.impact-green__list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 35px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.impact-green__item {
+  background-color: #e9fbe9;
+  border: 1px solid #c6eac6;
+  border-radius: 20px;
+  padding: 28px 30px;
+  display: flex;
+  align-items: flex-start;
+  gap: 18px;
+  box-shadow: 0 4px 16px rgba(0, 128, 0, 0.15);
+  transition: all 0.3s ease;
+}
+
+.impact-green__item:hover {
+  background-color: #d7f5d7;
+  transform: translateY(-6px);
+  box-shadow: 0 6px 18px rgba(0, 128, 0, 0.25);
+}
+
+.impact-green__icon {
+  font-size: 32px;
+  color: #218121;
+  flex-shrink: 0;
+  margin-top: 5px;
+}
+
+.impact-green__item p {
+  font-size: 18px;
+  line-height: 1.8;
+  color: #1e3b1e;
+  margin: 0;
+}
+
+/*--------------------------------------------------------------
+# Our Impact 
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
 # Team Four
 --------------------------------------------------------------*/
 .team-four {

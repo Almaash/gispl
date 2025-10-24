@@ -721,10 +721,10 @@
     font-size: 84px;
     color: var(--crank-black);
     font-weight: 700;
-    line-height: 96px;
+    /* line-height: 96px; */
     text-transform: capitalize;
     letter-spacing: -0.02em;
-    margin-bottom: 29px;
+    /* margin-bottom: 29px; */
     opacity: 0;
     transition: transform 1200ms ease, opacity 1200ms ease;
     transform: translateX(200px);

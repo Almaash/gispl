@@ -391,20 +391,29 @@
 
 .testimonial-two__right {
     position: relative;
-    display: block;
-    margin-left: -10px;
-    margin-right: -60px;
-    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
 }
 
 .testimonial-two__img {
     position: relative;
-    display: block;
+    width: 30rem;
+    /* height: 100%; */
 }
 
 .testimonial-two__img img {
-    width: auto;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 0;
 }
+
 
 /*--------------------------------------------------------------
 # Testimonial Three

@@ -6032,6 +6032,7 @@ fieldset:disabled .btn {
 }
 
 .modal-title {
+    color: white;
     margin-bottom: 0;
     line-height: 1.5
 }
